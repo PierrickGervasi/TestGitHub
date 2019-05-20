@@ -23,5 +23,8 @@ public class MainActivity extends AppCompatActivity {
         int a=2;   
     }
     
+    private void extChange(){
+        int b=3;   
+    }
     
 }
