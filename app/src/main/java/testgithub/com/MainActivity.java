@@ -31,4 +31,8 @@ public class MainActivity extends AppCompatActivity {
         int d=4;   
     }
     
+    private void extChangeMergeMerge(){
+        int e=5;   
+    }
+    
 }
